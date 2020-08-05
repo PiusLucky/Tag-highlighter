@@ -1,6 +1,8 @@
 # Tag-highlighter
 Highlighting tags with few lines of code...
 
+![demo](https://github.com/PiusLucky/Tag-highlighter/blob/master/static/img/Tags%20Highlighter.png?raw=true)
+
 ```javascript
 /*
   Road Map
